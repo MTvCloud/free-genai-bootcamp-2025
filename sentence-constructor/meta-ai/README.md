@@ -1,13 +1,10 @@
-## ChatGPT Powered Assistan Guid
+## MetaAi Powered Assistan Guid
 
 ### Which Model
 
-GPT 4o
+Meta.ai is using Llama 3 70B
 
-> I have the paid version of ChatGPT.
+### Prompting Guides
 >
-> Prompting Guides
->
-https://platform.openai.com/docs/guides/prompt-engineering
+https://www.llama.com/docs/how-to-guides/prompting
 
-Just like MetaAI there are no specific formatting to best provide
