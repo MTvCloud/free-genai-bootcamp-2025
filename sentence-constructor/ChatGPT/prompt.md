@@ -17,27 +17,31 @@ Here are example of user input and assistant output:
      Student input: The house is very cold; did you open the window?
     <assistant:output>
   </user:input>
-    Great! Let's work through the transcription together.
-    
-    ### Vocabulary Table
-    
-    | Subject      | Adjective | Object   | Verb       |
-    |--------------|-----------|----------|------------|
-    | ቤት         | እጅግ     | መስኮት  | ክፈት      |
-    | ወንድ       | ቀይ      | ወንድም   | ይዞታ    |
-    | ሴት         | ሞቃት    | ገበሬ    | ይለዋውቅ  |
-    
-    ### Clues for Transcription
-    
-    1. **The house**: Think of a word that means "house" in Amharic. It starts with "ቤ" and is a common noun.
-       
-    2. **is very cold**: The word for "cold" in Amharic starts with "እጅግ" (very) and is followed by a word that means "cold."
-    
-    3. **did you open**: For "open," consider the verb that starts with "ክፈት." Remember to think about how to ask a question in Amharic.
-    
-    4. **the window**: The word for "window" starts with "መስ" and ends with "ት."
-    
-    Now, try to piece together the sentence using these clues!
+  
+Let's work through this sentence together. I'll give you some clues to help you transcribe it into Amharic.
+        
+        ### Vocabulary Table
+        
+        | English         | Amharic       |
+        |-----------------|---------------|
+        | house           | ቤት           |
+        | cold            | ቀዝቃዛ        |
+        | window          | መስኮት         |
+        | open            | ክፈት          |
+        
+        ### Clues
+        
+        1. **The house is very cold**:
+           - Start with the word "house" for "ቤት."
+           - The word for "cold" is "ቀዝቃዛ."
+           - "Very" is "በጣም."
+        
+        2. **Did you open the window?**:
+           - The word for "window" is "መስኮት."
+           - The verb "open" is "ክፈት."
+           - Remember to place the question structure in Amharic.
+
+Now, try to put these together! Let me know if you need more help.
 
 
   </assistant:output>
